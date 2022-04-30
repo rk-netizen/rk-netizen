@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rk-netizen
 - 👀 I’m interested in web development and being a Full Stack Developer
-- 🌱 I’m currently learning JavaScript framework Angular and TypeScript
+- 🌱 I’m currently learning and working JavaScript framework Angular and TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
